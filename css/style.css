@@ -147,7 +147,6 @@ first div in the grid  and place it in the grid. */
 .container > :first-child {
   grid-column: 1 / span 3;
   background-image: url("../images/header.jpg");
-  background-color: blue;
   background-attachment: fixed; /* Parallax effect */     
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
